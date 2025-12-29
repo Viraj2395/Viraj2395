@@ -1,5 +1,8 @@
 # 💫 Viraj:
-🔭 I'm currently working on developing AI Team<br>💻 I'm computer science student at Adelaide University<br>📍 I'm currently learning more about LLM & AI/ML<br>🪄 And I'm funny
+🔭 I’m currently working on developing an AI team  
+💻 I’m a computer science student at the University of Adelaide  
+📍 I’m currently learning more about LLMs and AI/ML  
+🪄 I'm funny
 
 
 ## 🌐 Socials:
