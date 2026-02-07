@@ -2,7 +2,6 @@
 🔭 I’m currently working on developing an AI team  
 💻 I’m a computer science student at the University of Adelaide  
 📍 I’m currently learning more about LLMs and AI/ML  
-🪄 I'm funny
 
 
 ## 🌐 Socials:
